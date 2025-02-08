@@ -1,0 +1,11 @@
+secret_no=5
+print("*Note you have only 3 attempts!")
+takeNo=input("enter guessed number!")
+i=0
+while(i<3)
+    if(takeNo==secret_no)
+        print("wow congrats! guessed number is "{takeNo})
+    else
+        print("ops ! guessed number is not "{takeNo})
+    i=+1
+print("Thanks")        

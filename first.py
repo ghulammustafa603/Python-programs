@@ -1,0 +1,21 @@
+print("ALLAH O AKBAR")
+# name ="Ghulam Mustafa"
+# age=22
+# print (name)
+# print (age)
+# print (name)
+# print ("tony stark")
+name=input("what is your name\n")
+print("My name is:"+name)
+#old_age=input("enter your old age:")
+#new_age=int(old_age)+2
+#print("New age is:"+str(new_age))
+# print(name.upper())
+# print(name.lower())
+# print(name.find('m'))
+# print(name.find("lam"))
+# print(name.find("Lam"))
+# print(name.replace("Ghulam","Nokar e"))
+# print(name)
+# print(name.replace("G","g"))
+# print('z'in name)
